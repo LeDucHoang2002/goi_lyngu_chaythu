@@ -2,4 +2,5 @@
 @section('content')
     
 <h1>LÊ ĐỨC HOÀNG</h1>
+<h1>Nguyễn Hải Ly</h1>
 @endsection
